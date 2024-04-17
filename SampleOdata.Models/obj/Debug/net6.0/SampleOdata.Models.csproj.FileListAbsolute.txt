@@ -1,0 +1,14 @@
+D:\PRN221\SampleOdata.Models\bin\Debug\net6.0\SampleOdata.Models.deps.json
+D:\PRN221\SampleOdata.Models\bin\Debug\net6.0\SampleOdata.Models.runtimeconfig.json
+D:\PRN221\SampleOdata.Models\bin\Debug\net6.0\SampleOdata.Models.dll
+D:\PRN221\SampleOdata.Models\bin\Debug\net6.0\SampleOdata.Models.pdb
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\SampleOdata.Models.csproj.AssemblyReference.cache
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\SampleOdata.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\SampleOdata.Models.AssemblyInfoInputs.cache
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\SampleOdata.Models.AssemblyInfo.cs
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\SampleOdata.Models.csproj.CoreCompileInputs.cache
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\SampleOdata.Models.dll
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\refint\SampleOdata.Models.dll
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\SampleOdata.Models.pdb
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\SampleOdata.Models.genruntimeconfig.cache
+D:\PRN221\SampleOdata.Models\obj\Debug\net6.0\ref\SampleOdata.Models.dll

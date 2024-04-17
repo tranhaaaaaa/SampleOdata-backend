@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KI3C9+5WyhQ6mBg1sCQLFCUEBvS0wUfpLHE7Xnp9two=",
+  "Source": "SampleOdata.WebApi",
+  "BasePath": "_content/SampleOdata.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
